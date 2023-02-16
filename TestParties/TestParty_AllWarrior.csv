@@ -1,0 +1,5 @@
+﻿Player,Class,Level,Equipment Int,Equipment Str,Allocated Int,Allocated Str,Day Bonus,Starting Mana,Projected Dailies and To Dos,Projected Habits
+W1,Warrior,100,104,25,100,0,TRUE,600,10,4
+W2,Warrior,100,35,100,0,100,TRUE,300,10,4
+W3,Warrior,50,60,60,25,25,FALSE,250,12,2
+W4,Warrior,40,50,50,40,0,TRUE,200,10,10

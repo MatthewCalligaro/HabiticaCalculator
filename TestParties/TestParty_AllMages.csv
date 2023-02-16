@@ -1,0 +1,5 @@
+﻿Player,Class,Level,Equipment Int,Equipment Str,Allocated Int,Allocated Str,Day Bonus,Starting Mana,Projected Dailies and To Dos,Projected Habits
+M1,Mage,100,104,25,100,0,TRUE,300,10,4
+M2,Mage,80,92,35,80,0,FALSE,450,14,8
+M3,Mage,90,60,60,90,0,FALSE,400,12,2
+M4,Mage,40,50,25,40,0,TRUE,250,10,10
